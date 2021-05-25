@@ -1,7 +1,3 @@
-<!----# freeemailtemplate
-email list
---->
-
 
 <!DOCTYPE html>
 <html lang="en">
